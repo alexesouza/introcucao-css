@@ -4,3 +4,5 @@
 
 ### A extensão .md significa que este arquivo é escrito em linguagem MarkDown muito parecida com HTML
 
+![imagem de uma ferrari](./ferrari.jpg)
+
